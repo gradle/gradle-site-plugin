@@ -26,7 +26,7 @@ open class SiteGenerate : DefaultTask() {
      * @return The output directory.
      */
     @get:OutputDirectory
-    val outputDir: DirectoryProperty = newOutputDirectory()
+    val outputDir: DirectoryProperty = project.objects.directoryProperty()
 
     /**
      * Returns the custom data to be used in the generated web page.
