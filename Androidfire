@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "60417355723",
+    "firebase_url": "https://southern-ballad-fireball.firebaseio.com",
+    "project_id": "southern-ballad-fireball",
+    "storage_bucket": "southern-ballad-fireball.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60417355723:android:fc54b149647c0a1974504e",
+        "android_client_info": {
+          "package_name": "Com.southernballad.androidfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS6rODIGkY19Lafh2JQeEYZnWqDK-xN6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60417355723-hnk01psu237493sd11c94qq9b7u9563t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "60417355723-6b554vd98g5ees3q3epr8npuu9cig7nv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dzfgs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
