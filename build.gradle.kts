@@ -118,7 +118,7 @@ tasks {
 }
 
 repositories {
-    jcenter()
+    mavenCentral()
 }
 
 dependencies {
